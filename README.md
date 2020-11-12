@@ -1,13 +1,13 @@
-# reactdemolibrary
+# liuyi-reactlib
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/reactdemolibrary.svg)](https://www.npmjs.com/package/reactdemolibrary) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/liuyi-reactlib.svg)](https://www.npmjs.com/package/liuyi-reactlib) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save reactdemolibrary
+npm install --save liuyi-reactlib
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save reactdemolibrary
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'reactdemolibrary'
-import 'reactdemolibrary/dist/index.css'
+import MyComponent from 'liuyi-reactlib'
+import 'liuyi-reactlib/dist/index.css'
 
 class Example extends Component {
   render() {
